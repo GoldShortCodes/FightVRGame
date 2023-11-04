@@ -1680,3 +1680,987 @@ The following settings have been applied:
 [2023.11.04-22.43.30:004][685]LogConcertTakeRecorder: Display: Session Client Change: jhoop Connected.
 [2023.11.04-22.43.30:005][685]LogConcert: Display: User 'hoope' (Endpoint: D5E9F2664C977B0C843A4BB75E8E5931) joined Concert session 'fightvr' (Id: 477DB576461A693390D90C8C2F21491B, Owner: jazzy).
 [2023.11.04-22.43.30:005][685]LogConcert: Display: Synced activity '2' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop joined the session.
+[2023.11.04-22.44.31:157][142]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.04-22.44.34:190][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-22.44.34:304][316]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.04-22.44.34:354][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Katana/BPkata.BPkata_C
+[2023.11.04-22.44.34:354][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Katana/BPkata.BPkata_C
+[2023.11.04-22.44.34:356][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Katana/BPkata.BPkata as actor: BPkata_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BPkata_C_0
+[2023.11.04-22.44.34:358][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Katana/BPkata.BPkata as actor: BPkata_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BPkata_C_0
+[2023.11.04-22.44.34:363][317]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.04-22.44.34:485][318]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.04-22.44.35:862][387]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Katana/BPkata.BPkata_C
+[2023.11.04-22.44.35:862][387]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Katana/BPkata.BPkata_C
+[2023.11.04-22.44.35:866][387]LogActorFactory: Actor Factory spawned Blueprint /Game/Katana/BPkata.BPkata as actor: BPkata_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BPkata_C_1
+[2023.11.04-22.44.35:868][387]LogActorFactory: Actor Factory spawned Blueprint /Game/Katana/BPkata.BPkata as actor: BPkata_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BPkata_C_1
+[2023.11.04-22.44.35:892][387]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2023.11.04-22.44.35:975][391]LogConcert: Display: Synced activity '3' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh created BPkata_C_1 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.36:658][430]Cmd: EDIT CUT
+[2023.11.04-22.44.36:683][430]LogEditorActor: Deleted Actor: BPkata_C
+[2023.11.04-22.44.36:692][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.04-22.44.36:693][430]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.11.04-22.44.36:774][433]LogConcert: Display: Synced activity '4' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh deleted BPkata_C_1 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.37:255][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all.grey_saber_all
+[2023.11.04-22.44.37:256][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all.grey_saber_all
+[2023.11.04-22.44.37:257][457]LogActorFactory: Actor Factory spawned StaticMesh /Game/Katana/grey_saber_all.grey_saber_all as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2023.11.04-22.44.38:182][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all.grey_saber_all
+[2023.11.04-22.44.38:182][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all.grey_saber_all
+[2023.11.04-22.44.38:183][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/Katana/grey_saber_all.grey_saber_all as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_1
+[2023.11.04-22.44.38:318][515]LogConcert: Display: Synced activity '5' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh created StaticMeshActor_1 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.38:535][528]Cmd: EDIT CUT
+[2023.11.04-22.44.38:538][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.04-22.44.38:545][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.04-22.44.38:546][528]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.11.04-22.44.38:587][531]LogConcert: Display: Synced activity '6' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh deleted StaticMeshActor_1 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.39:386][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy
+[2023.11.04-22.44.39:387][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy
+[2023.11.04-22.44.39:387][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_2
+[2023.11.04-22.44.39:845][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy
+[2023.11.04-22.44.39:845][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy
+[2023.11.04-22.44.39:846][599]LogActorFactory: Actor Factory spawned StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4
+[2023.11.04-22.44.39:983][602]LogConcert: Display: Synced activity '7' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh created StaticMeshActor_4 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.40:134][611]Cmd: EDIT CUT
+[2023.11.04-22.44.40:138][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.04-22.44.40:145][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.04-22.44.40:146][611]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.11.04-22.44.40:208][615]LogConcert: Display: Synced activity '8' produced by endpoint '0EEE04634B62D0AEF19C53B43E9020B5': Jesh deleted StaticMeshActor_4 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.44.40:668][637]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.04-22.44.51:988][310]LogConcert: Display: Synced activity '9' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all.
+[2023.11.04-22.44.51:988][310]LogConcert: Display: Synced activity '10' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-22.44.52:487][337]LogConcert: Display: Synced activity '11' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/1_2.
+[2023.11.04-22.44.52:489][337]LogConcert: Display: Synced activity '12' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/1_2.
+[2023.11.04-22.44.52:500][337]LogConcert: Display: Synced activity '13' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/1_2.
+[2023.11.04-22.44.52:506][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.04-22.44.52:519][338]LogConcert: Display: Synced activity '14' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/1_3.
+[2023.11.04-22.44.52:521][338]LogConcert: Display: Synced activity '15' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/1_3.
+[2023.11.04-22.44.52:523][338]LogConcert: Display: Synced activity '16' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/1_3.
+[2023.11.04-22.44.52:523][338]LogConcert: Display: Synced activity '17' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/2_2.
+[2023.11.04-22.44.52:524][338]LogConcert: Display: Synced activity '18' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/2_2.
+[2023.11.04-22.44.52:525][338]LogConcert: Display: Synced activity '19' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/2_2.
+[2023.11.04-22.44.52:526][338]LogConcert: Display: Synced activity '20' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/2_3.
+[2023.11.04-22.44.52:527][338]LogConcert: Display: Synced activity '21' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/2_3.
+[2023.11.04-22.44.52:528][338]LogConcert: Display: Synced activity '22' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/2_3.
+[2023.11.04-22.44.52:529][338]LogConcert: Display: Synced activity '23' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/3_2.
+[2023.11.04-22.44.52:530][338]LogConcert: Display: Synced activity '24' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/3_2.
+[2023.11.04-22.44.52:532][338]LogConcert: Display: Synced activity '25' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/3_2.
+[2023.11.04-22.44.52:532][338]LogConcert: Display: Synced activity '26' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/3_3.
+[2023.11.04-22.44.52:532][338]LogConcert: Display: Synced activity '27' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/3_3.
+[2023.11.04-22.44.52:534][338]LogConcert: Display: Synced activity '28' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/3_3.
+[2023.11.04-22.44.52:534][338]LogConcert: Display: Synced activity '29' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/4_2.
+[2023.11.04-22.44.52:535][338]LogConcert: Display: Synced activity '30' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/4_2.
+[2023.11.04-22.44.52:536][338]LogConcert: Display: Synced activity '31' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/4_2.
+[2023.11.04-22.44.52:536][338]LogConcert: Display: Synced activity '32' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/4_3.
+[2023.11.04-22.44.52:537][338]LogConcert: Display: Synced activity '33' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/4_3.
+[2023.11.04-22.44.52:538][338]LogConcert: Display: Synced activity '34' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/4_3.
+[2023.11.04-22.44.52:538][338]LogConcert: Display: Synced activity '35' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/5_2.
+[2023.11.04-22.44.52:539][338]LogConcert: Display: Synced activity '36' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/5_2.
+[2023.11.04-22.44.52:540][338]LogConcert: Display: Synced activity '37' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/5_2.
+[2023.11.04-22.44.52:545][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.04-22.44.52:554][339]LogConcert: Display: Synced activity '38' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/5_3.
+[2023.11.04-22.44.52:555][339]LogConcert: Display: Synced activity '39' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/5_3.
+[2023.11.04-22.44.52:557][339]LogConcert: Display: Synced activity '40' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/5_3.
+[2023.11.04-22.44.52:557][339]LogConcert: Display: Synced activity '41' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/6_2.
+[2023.11.04-22.44.52:559][339]LogConcert: Display: Synced activity '42' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/6_2.
+[2023.11.04-22.44.52:560][339]LogConcert: Display: Synced activity '43' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/6_2.
+[2023.11.04-22.44.52:560][339]LogConcert: Display: Synced activity '44' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/6_3.
+[2023.11.04-22.44.52:561][339]LogConcert: Display: Synced activity '45' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/6_3.
+[2023.11.04-22.44.52:563][339]LogConcert: Display: Synced activity '46' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/6_3.
+[2023.11.04-22.44.52:567][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.11.04-22.44.59:517][752]LogConcert: Display: Synced activity '47' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-22.44.59:547][752]LogConcert: Display: Synced activity '48' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-22.44.59:552][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.04-22.45.06:133][144]LogConcert: Display: Synced activity '49' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/BPkata.
+[2023.11.04-22.45.06:167][146]LogConcert: Display: Synced activity '50' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all.
+[2023.11.04-22.45.06:186][146]LogConcert: Display: Synced activity '51' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all.
+[2023.11.04-22.45.06:190][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.04-22.46.09:528][ 75]LogConcert: Display: Synced activity '52' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.46.09:530][ 75]LogConcert: Display: Synced activity '53' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/1_2.
+[2023.11.04-22.46.09:532][ 75]LogConcert: Display: Synced activity '54' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/1_2.
+[2023.11.04-22.46.09:865][ 76]LogConcert: Display: Synced activity '55' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.46.09:865][ 76]LogConcert: Display: Synced activity '56' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/2_2.
+[2023.11.04-22.46.09:866][ 76]LogConcert: Display: Synced activity '57' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/2_2.
+[2023.11.04-22.46.09:867][ 76]LogConcert: Display: Synced activity '58' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.46.09:868][ 76]LogConcert: Display: Synced activity '59' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/3_2.
+[2023.11.04-22.46.09:870][ 76]LogConcert: Display: Synced activity '60' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/3_2.
+[2023.11.04-22.46.10:203][ 77]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/Katana/1_2
+	Asset Name: /Game/Katana/2_2
+	Asset Name: /Game/Katana/3_2
+[2023.11.04-22.46.10:211][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.04-22.46.10:590][ 77]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.11:248][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.11.04-22.46.11:570][ 77]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.11:814][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.04-22.46.11:832][ 77]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.12:467][ 77]LogMaterial: Display: Material /Game/Katana/1_2.1_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.12:554][ 77]MapCheck: Warning: 1_2 Material /Game/Katana/1_2.1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.12:629][ 77]LogMaterial: Display: Material /Game/Katana/2_2.2_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.12:669][ 77]MapCheck: Warning: 2_2 Material /Game/Katana/2_2.2_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.12:670][ 77]LogMaterial: Display: Material /Game/Katana/3_2.3_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.12:701][ 77]MapCheck: Warning: 3_2 Material /Game/Katana/3_2.3_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.12:723][ 77]LogShaderCompilers: Display: ================================================
+[2023.11.04-22.46.12:723][ 77]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-22.46.12:723][ 77]LogShaderCompilers: Display: Total job queries 137, among them cache hits 73 (53.28%)
+[2023.11.04-22.46.12:723][ 77]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 53 distinct outputs (82.81%)
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: RAM used: 2.38 MiB of 819.20 MiB budget. Usage: 0.29%
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.04-22.46.12:724][ 77]LogShaderCompilers: Display: ================================================
+[2023.11.04-22.46.15:077][ 85]LogConcert: Display: Synced activity '61' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.46.15:077][ 85]LogConcert: Display: Synced activity '62' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/5_2.
+[2023.11.04-22.46.15:079][ 85]LogConcert: Display: Synced activity '63' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/5_2.
+[2023.11.04-22.46.15:484][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.04-22.46.15:522][ 85]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.019843 seconds
+[2023.11.04-22.46.15:548][ 85]LogSavePackage: Warning: 
+Referencers of StaticMesh /Game/Katana/grey_saber_all.grey_saber_all:
+[2023.11.04-22.46.15:625][ 85]LogSavePackage: Warning: 	StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_7.StaticMeshComponent0 (1 refs)
+[2023.11.04-22.46.15:625][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+[2023.11.04-22.46.15:625][ 85]LogSavePackage: Warning: 
+Referencers of Package /Game/Katana/grey_saber_all:
+[2023.11.04-22.46.15:704][ 85]LogSavePackage: Warning: 
+Referencers of StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy:
+[2023.11.04-22.46.15:792][ 85]LogSavePackage: Warning: 	StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_3.StaticMeshComponent0 (1 refs)
+[2023.11.04-22.46.15:792][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh
+[2023.11.04-22.46.15:792][ 85]LogSavePackage: Warning: 
+Referencers of Package /Game/Katana/grey_saber_all_-_Copy:
+[2023.11.04-22.46.15:889][ 85]EditorErrors: New page: Save Output
+[2023.11.04-22.46.15:890][ 85]EditorErrors: Warning: Can't save C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap: Graph is linked to external private object StaticMesh /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy (StaticMesh)
+[2023.11.04-22.46.15:892][ 85]LogFileHelpers: Editor autosave (incl. sublevels) failed for file 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap' which belongs to world '/Game/VRTemplate/Maps/VRTemplateMap'. Aborting autosave.
+[2023.11.04-22.46.15:945][ 86]LogConcert: Display: Synced activity '64' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.46.15:945][ 86]LogConcert: Display: Synced activity '65' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/6_2.
+[2023.11.04-22.46.15:946][ 86]LogConcert: Display: Synced activity '66' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/6_2.
+[2023.11.04-22.46.15:947][ 86]LogConcert: Display: Synced activity '67' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.46.15:948][ 86]LogConcert: Display: Synced activity '68' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/4_2.
+[2023.11.04-22.46.15:949][ 86]LogConcert: Display: Synced activity '69' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/4_2.
+[2023.11.04-22.46.15:950][ 86]LogConcert: Display: Synced activity '70' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.46.15:951][ 86]LogConcert: Display: Synced activity '71' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.46.15:968][ 86]LogConcert: Display: Synced activity '72' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.46.15:984][ 86]LogConcert: Display: Synced activity '73' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.46.15:985][ 86]LogConcert: Display: Synced activity '74' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.46.15:986][ 86]LogConcert: Display: Synced activity '75' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.46.15:987][ 86]LogConcert: Display: Synced activity '76' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.46.15:991][ 86]LogConcert: Display: Synced activity '77' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.46.15:992][ 86]LogConcert: Display: Synced activity '78' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.46.15:993][ 86]LogConcert: Display: Synced activity '79' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.46.15:994][ 86]LogConcert: Display: Synced activity '80' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.46.15:999][ 86]LogConcert: Display: Synced activity '81' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.46.16:366][ 88]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/Katana/5_2
+	Asset Name: /Game/Katana/6_2
+	Asset Name: /Game/Katana/4_2
+[2023.11.04-22.46.16:372][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.11.04-22.46.16:713][ 88]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.17:443][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.04-22.46.17:808][ 88]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.18:156][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.04-22.46.18:175][ 88]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.46.18:752][ 88]LogMaterial: Display: Material /Game/Katana/5_2.5_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.18:799][ 88]MapCheck: Warning: 5_2 Material /Game/Katana/5_2.5_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.18:800][ 88]LogMaterial: Display: Material /Game/Katana/6_2.6_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.18:836][ 88]MapCheck: Warning: 6_2 Material /Game/Katana/6_2.6_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.18:837][ 88]LogMaterial: Display: Material /Game/Katana/4_2.4_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.46.18:868][ 88]MapCheck: Warning: 4_2 Material /Game/Katana/4_2.4_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.46.46:259][171]LogConcert: Display: Synced activity '82' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted StaticMeshActor_3 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.46.46:266][171]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DesktopPresence_C_0'
+[2023.11.04-22.46.56:917][203]LogConcert: Display: Synced activity '83' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.46.58:256][207]LogConcert: Display: Synced activity '84' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.46.58:257][207]LogConcert: Display: Synced activity '85' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.47.36:935][323]LogConcert: Display: Synced activity '86' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.47.39:935][332]LogConcert: Display: Synced activity '87' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.47.39:936][332]LogConcert: Display: Synced activity '88' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.08:955][419]LogConcert: Display: Synced activity '89' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.08:979][419]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_1) ...
+[2023.11.04-22.48.24:291][465]LogConcert: Display: Synced activity '90' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.24:298][465]LogStaticMesh: Display: Building static mesh grey_saber_all_6...
+[2023.11.04-22.48.24:315][465]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_6) ...
+[2023.11.04-22.48.24:333][465]LogStaticMesh: Built static mesh [0.04s] /Game/Katana/grey_saber_all_6.grey_saber_all_6
+[2023.11.04-22.48.27:959][476]LogConcert: Display: Synced activity '91' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.27:963][476]LogStaticMesh: Display: Building static mesh grey_saber_all_5...
+[2023.11.04-22.48.27:981][476]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_5) ...
+[2023.11.04-22.48.27:983][476]LogStaticMesh: Built static mesh [0.02s] /Game/Katana/grey_saber_all_5.grey_saber_all_5
+[2023.11.04-22.48.29:629][481]LogConcert: Display: Synced activity '92' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.29:654][481]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_Cube) ...
+[2023.11.04-22.48.31:972][488]LogConcert: Display: Synced activity '93' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.48.48:960][539]LogConcert: Display: Synced activity '94' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.48.48:960][539]LogConcert: Display: Synced activity '95' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.48.48:960][539]LogConcert: Display: Synced activity '96' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.48.48:961][539]LogConcert: Display: Synced activity '97' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.48.48:961][539]LogConcert: Display: Synced activity '98' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.48.48:961][539]LogConcert: Display: Synced activity '99' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.48.48:962][539]LogConcert: Display: Synced activity '100' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.48.48:969][539]LogConcert: Display: Synced activity '101' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_Cube.
+[2023.11.04-22.48.48:970][539]LogConcert: Display: Synced activity '102' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.48.48:972][539]LogConcert: Display: Synced activity '103' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_1.
+[2023.11.04-22.48.48:973][539]LogConcert: Display: Synced activity '104' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.48.48:974][539]LogConcert: Display: Synced activity '105' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_2.
+[2023.11.04-22.48.48:974][539]LogConcert: Display: Synced activity '106' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.48.48:976][539]LogConcert: Display: Synced activity '107' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_3.
+[2023.11.04-22.48.48:976][539]LogConcert: Display: Synced activity '108' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.48.48:979][539]LogConcert: Display: Synced activity '109' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_5.
+[2023.11.04-22.48.48:979][539]LogConcert: Display: Synced activity '110' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.48.48:981][539]LogConcert: Display: Synced activity '111' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all_6.
+[2023.11.04-22.48.48:982][539]LogConcert: Display: Synced activity '112' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/6_2.
+[2023.11.04-22.48.48:984][539]LogConcert: Display: Synced activity '113' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/6_2.
+[2023.11.04-22.48.48:984][539]LogConcert: Display: Synced activity '114' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/5_2.
+[2023.11.04-22.48.48:986][539]LogConcert: Display: Synced activity '115' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/5_2.
+[2023.11.04-22.48.48:987][539]LogConcert: Display: Synced activity '116' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/4_2.
+[2023.11.04-22.48.48:989][539]LogConcert: Display: Synced activity '117' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/4_2.
+[2023.11.04-22.48.48:989][539]LogConcert: Display: Synced activity '118' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/3_2.
+[2023.11.04-22.48.48:991][539]LogConcert: Display: Synced activity '119' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/3_2.
+[2023.11.04-22.48.48:992][539]LogConcert: Display: Synced activity '120' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/2_2.
+[2023.11.04-22.48.48:993][539]LogConcert: Display: Synced activity '121' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/2_2.
+[2023.11.04-22.48.48:993][539]LogConcert: Display: Synced activity '122' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop deleted package /Game/Katana/1_2.
+[2023.11.04-22.48.48:995][539]LogConcert: Display: Synced activity '123' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/1_2.
+[2023.11.04-22.48.49:006][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.04-22.49.31:633][667]LogConcert: Display: Synced activity '124' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all.
+[2023.11.04-22.49.31:633][667]LogConcert: Display: Synced activity '125' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/1_2.
+[2023.11.04-22.49.31:635][667]LogConcert: Display: Synced activity '126' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/1_2.
+[2023.11.04-22.49.31:635][667]LogConcert: Display: Synced activity '127' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/2_2.
+[2023.11.04-22.49.31:636][667]LogConcert: Display: Synced activity '128' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/2_2.
+[2023.11.04-22.49.31:637][667]LogConcert: Display: Synced activity '129' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/3_2.
+[2023.11.04-22.49.31:637][667]LogConcert: Display: Synced activity '130' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/3_2.
+[2023.11.04-22.49.31:971][668]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/Katana/1_2
+	Asset Name: /Game/Katana/2_2
+	Asset Name: /Game/Katana/3_2
+[2023.11.04-22.49.31:976][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.04-22.49.32:173][668]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.32:568][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.04-22.49.32:799][668]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.32:996][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.04-22.49.33:014][668]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.33:385][668]LogMaterial: Display: Material /Game/Katana/1_2.1_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.49.33:429][668]MapCheck: Warning: 1_2 Material /Game/Katana/1_2.1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: ================================================
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: Total job queries 237, among them cache hits 173 (73.00%)
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 53 distinct outputs (82.81%)
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: RAM used: 2.38 MiB of 819.20 MiB budget. Usage: 0.29%
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.04-22.49.33:439][668]LogShaderCompilers: Display: ================================================
+[2023.11.04-22.49.36:114][677]LogConcert: Display: Synced activity '131' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/5_2.
+[2023.11.04-22.49.36:115][677]LogConcert: Display: Synced activity '132' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/5_2.
+[2023.11.04-22.49.36:115][677]LogConcert: Display: Synced activity '133' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/6_2.
+[2023.11.04-22.49.36:116][677]LogConcert: Display: Synced activity '134' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/6_2.
+[2023.11.04-22.49.36:116][677]LogConcert: Display: Synced activity '135' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/4_2.
+[2023.11.04-22.49.36:117][677]LogConcert: Display: Synced activity '136' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/4_2.
+[2023.11.04-22.49.36:452][678]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/Katana/5_2
+	Asset Name: /Game/Katana/6_2
+	Asset Name: /Game/Katana/4_2
+[2023.11.04-22.49.36:456][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.04-22.49.36:647][678]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.37:007][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.04-22.49.37:211][678]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.37:401][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.04-22.49.37:419][678]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.38:468][681]LogConcert: Display: Synced activity '137' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop added package /Game/Katana/grey_saber_all.
+[2023.11.04-22.49.38:475][681]LogConcert: Display: Synced activity '138' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop unlocked /Game/Katana/grey_saber_all.
+[2023.11.04-22.49.39:119][683]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Katana/grey_saber_all
+[2023.11.04-22.49.39:124][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.04-22.49.39:338][683]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.49.39:548][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.04-22.49.56:570][735]LogConcert: Display: Synced activity '139' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop modified StaticMeshActor_7.StaticMeshComponent0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-22.49.56:572][735]LogMaterial: Display: Material /Game/Katana/2_2.2_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.49.56:647][735]LogMaterial: Display: Material /Game/Katana/3_2.3_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.49.56:681][735]LogMaterial: Display: Material /Game/Katana/5_2.5_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.49.56:709][735]LogMaterial: Display: Material /Game/Katana/6_2.6_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.49.56:738][735]LogMaterial: Display: Material /Game/Katana/4_2.4_2 needed to have new flag set bUsedWithStaticLighting !
+[2023.11.04-22.52.19:550][165]LogConcert: Display: Synced activity '140' produced by endpoint 'D5E9F2664C977B0C843A4BB75E8E5931': jhoop locked /Game/Katana/grey_saber_all.
+[2023.11.04-22.55.10:913][679]LogConcertTakeRecorder: Display: Session Client Change: jhoop Disconnected.
+[2023.11.04-22.55.10:913][679]LogConcert: Display: User 'hoope' (Endpoint: D5E9F2664C977B0C843A4BB75E8E5931) left Concert session 'fightvr' (Id: 477DB576461A693390D90C8C2F21491B, Owner: jazzy).
+[2023.11.04-22.55.10:943][679]LogConcert: Display: Disconnected from Concert session 'fightvr' (Id: 477DB576461A693390D90C8C2F21491B, Owner: jazzy).
+[2023.11.04-22.55.10:943][679]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: fightvr
+[2023.11.04-22.55.10:943][679]SourceControl: Revision control is disabled
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Engine/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/FightVR/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ConcertSyncClient/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ObjectMixer/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/LightMixer/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Takes/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/MultiUserTakes/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/AnimationSharing/' was aborted.
+[2023.11.04-22.55.10:959][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Paper2D/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ToolPresets/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/PythonScriptPlugin/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/FullBodyIK/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Dataflow/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ChaosSolverPlugin/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ChaosNiagara/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ChaosClothEditor/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ChaosCaching/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Runtime/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/SequencerScripting/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Niagara/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/GLTFExporter/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/DatasmithContent/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/IKRig/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ControlRig/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ControlRigSpline/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ACLPlugin/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/WaveTable/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Synthesis/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/RigVM/' was aborted.
+[2023.11.04-22.55.10:960][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/ResonanceAudio/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/OpenXRHandTracking/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/OpenXREyeTracker/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/OpenXR/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Metasound/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/MeshModelingToolset/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/GeometryProcessing/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/AudioWidgets/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/AudioSynesthesia/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/MediaPlate/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/MediaCompositing/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/UVEditor/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/SpeedTreeImporter/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/GeometryMode/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/BlueprintHeaderView/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/TraceUtilities/' was aborted.
+[2023.11.04-22.55.10:961][679]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/477DB576461A693390D90C8C2F21491B/Sandbox/Bridge/' was aborted.
+[2023.11.04-22.55.10:975][679]LightingResults: New page: Lighting Build
+[2023.11.04-22.55.11:004][679]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-22.55.11:018][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-22.55.11:026][679]MapCheck: New page: Map Check
+[2023.11.04-22.55.11:026][679]LightingResults: New page: Lighting Build
+[2023.11.04-22.55.11:035][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-22.55.11:076][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.04-22.55.11:082][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-22.55.11:086][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-22.55.11:091][679]LogAIModule: Creating AISystem for world Untitled
+[2023.11.04-22.55.11:100][679]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.04-22.55.11:213][679]LoadErrors: New page: New Map
+[2023.11.04-22.55.11:227][679]LogUObjectGlobals: Reloading 7 Package(s):
+	Asset Name: /Game/Katana/1_2
+	Asset Name: /Game/Katana/6_2
+	Asset Name: /Game/Katana/5_2
+	Asset Name: /Game/Katana/4_2
+	Asset Name: /Game/Katana/2_2
+	Asset Name: /Game/Katana/3_2
+	Asset Name: /Game/Katana/grey_saber_all
+[2023.11.04-22.55.11:233][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.04-22.55.11:443][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.55.11:814][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.04-22.55.12:026][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.55.12:243][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.55.12:821][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.04-22.55.13:070][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.55.13:292][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-22.55.13:669][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.04-22.55.13:905][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_DEADPACKAGE_21) ...
+[2023.11.04-22.55.14:080][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.04-22.55.14:137][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-22.55.14:150][679]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.04-22.55.14:153][679]Cmd: MAP LOAD FILE="C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.04-22.55.14:154][679]LightingResults: New page: Lighting Build
+[2023.11.04-22.55.14:155][679]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2023.11.04-22.55.14:170][679]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-22.55.14:170][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-22.55.14:170][679]MapCheck: New page: Map Check
+[2023.11.04-22.55.14:170][679]LightingResults: New page: Lighting Build
+[2023.11.04-22.55.14:176][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-22.55.14:178][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.04-22.55.14:197][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Katana/grey_saber_all_-_Copy) ...
+[2023.11.04-22.55.14:211][679]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-22.55.14:211][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-22.55.14:218][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.04-22.55.14:223][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.04-22.55.14:233][679]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2023.11.04-22.55.14:234][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-22.55.14:234][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-22.55.14:234][679]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.04-22.55.14:416][679]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.04-22.55.14:427][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.04-22.55.14:430][679]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.04-22.55.14:432][679]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.461ms to complete.
+[2023.11.04-22.55.14:440][679]LogConcert: Display: Shutdown Concert session 'fightvr' (Id: 477DB576461A693390D90C8C2F21491B, Owner: jazzy).
+[2023.11.04-22.55.14:842][680]LogConcert: Display: Server EPICMCGAMERSON lost.
+[2023.11.04-22.55.17:691][841]LogSlate: Window 'Message Log' being destroyed
+[2023.11.04-22.55.17:701][841]LogSlate: Window 'Message Log' being destroyed
+[2023.11.04-23.13.32:131][370]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2023.11.04-23.13.32:256][370]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9392
+[2023.11.04-23.13.32:592][371]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6ae11f3e-7190-4d2b-9a88-00f0b76fa8d7}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.46
+[2023.11.04-23.13.32:592][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.04-23.13.32:594][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.04-23.14.04:868][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.04-23.14.04:869][762]PIE: New page: PIE session: VRTemplateMap (Nov 4, 2023, 3:14:04 PM)
+[2023.11.04-23.14.04:876][762]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2023.11.04-23.14.04:887][762]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.11.04-23.14.04:927][763]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.04-23.14.04:944][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016172s)
+[2023.11.04-23.14.04:945][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.017976s)
+[2023.11.04-23.14.04:952][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.04-23.14.04:960][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-23.14.04:960][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-23.14.04:961][763]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.04-23.14.04:963][763]LogPlayLevel: PIE: World Init took: (0.006949s)
+[2023.11.04-23.14.04:966][763]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.04-23.14.04:967][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.04-23.14.04:968][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.04-23.14.04:972][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.04-23.14.04:972][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.04-23.14.04:972][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.04-23.14.04:975][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.04-23.14.05:010][763]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.04-23.14.05:012][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.04-23.14.05:012][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.04-23.14.05:013][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.04-23.14.05:018][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.04-23.14.05:018][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.04-23.14.05:020][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.04-23.14.05:020][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.04-23.14.05:020][763]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.04-23.14.05:020][763]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.11.04-23.14.05:021][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.04-23.14.05:080][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-23.14.05:315][763]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.11.04-23.14.05:372][763]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.057 s
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: === Handled ensure: ===
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: 
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0)  [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 1787] 
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_GRAPHICS_DEVICE_INVALID
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: Stack: 
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff99ae92d50 UnrealEditor-OpenXRHMD.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff99ae7a5df UnrealEditor-OpenXRHMD.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d07dfef7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d07c9f01 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d0800380 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d078d5d7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d07d5da0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9a19913d9 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9a1a06d3d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d0083402 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff9d0cdd776 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f668af2 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f68d28c UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f68d37a UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f690854 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f6a6984 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ff72f6a9d7a UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ffa551f257d KERNEL32.DLL!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: [Callstack] 0x00007ffa557aaa78 ntdll.dll!UnknownFunction []
+[2023.11.04-23.14.05:372][763]LogOutputDevice: Error: 
+[2023.11.04-23.14.05:377][763]LogStats:                SubmitErrorReport -  0.000 s
+[2023.11.04-23.14.07:583][763]LogStats:                    SendNewReport -  2.207 s
+[2023.11.04-23.14.07:584][763]LogStats:             FDebug::EnsureFailed -  2.269 s
+[2023.11.04-23.14.07:608][763]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.04-23.14.07:614][763]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.04-19.14.07
+[2023.11.04-23.14.07:619][763]LogWorld: Bringing up level for play took: 0.009971
+[2023.11.04-23.14.07:718][763]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.04-23.14.07:828][763]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.04-23.14.07:877][763]PIE: Server logged in
+[2023.11.04-23.14.07:880][763]PIE: Play in editor total start time 3.023 seconds.
+[2023.11.04-23.14.07:941][763]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: ================================================
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Total job queries 360, among them cache hits 294 (81.67%)
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 53 distinct outputs (81.54%)
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: RAM used: 2.41 MiB of 819.20 MiB budget. Usage: 0.29%
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Job execution time: average 2.46 s, max 2.46 s
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Job life time (pending + execution): average 2.55 s, max 2.55
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Shader code size: average 74.355 KiB, min 74.355 KiB, max 74.355 KiB
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.55 s
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Average processing rate: 0.39 jobs/sec
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Total thread time: 1.676 s
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Total thread preprocess time: 0.132 s
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Percentage time preprocessing: 7.89%
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Effective parallelization: 0.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.11.04-23.14.10:493][123]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 100.00% of total time (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2023.11.04-23.14.10:494][123]LogShaderCompilers: Display: ================================================
+[2023.11.04-23.14.50:687][394]LogWindowsDesktop: Alt-F4 pressed!
+[2023.11.04-23.14.50:735][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-23.14.50:735][394]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.04-23.14.50:812][394]LogSlate: Window 'FightVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.11.04-23.14.50:822][394]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.14.50:824][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.14.50:841][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.04-23.14.50:848][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.14.50:876][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.04-23.14.50:879][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.04-23.14.50:885][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.04-23.14.50:913][394]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.04-23.14.50:913][394]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.04-23.14.50:924][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.11.04-23.14.50:977][395]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.11.04-23.14.53:741][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.04-23.14.53:742][548]PIE: New page: PIE session: VRTemplateMap (Nov 4, 2023, 3:14:53 PM)
+[2023.11.04-23.14.53:742][548]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2023.11.04-23.14.53:744][548]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.11.04-23.14.53:778][549]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.04-23.14.53:788][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010892s)
+[2023.11.04-23.14.53:789][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010948s)
+[2023.11.04-23.14.53:794][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.04-23.14.53:797][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-23.14.53:797][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-23.14.53:797][549]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.04-23.14.53:798][549]LogPlayLevel: PIE: World Init took: (0.002052s)
+[2023.11.04-23.14.53:798][549]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.04-23.14.53:798][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.04-23.14.53:798][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.04-23.14.53:800][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.04-23.14.53:800][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.04-23.14.53:800][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.04-23.14.53:803][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.04-23.14.53:828][549]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.04-23.14.53:828][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.04-23.14.53:828][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.04-23.14.53:828][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.04-23.14.53:829][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.11.04-23.14.53:829][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.11.04-23.14.53:832][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.11.04-23.14.53:832][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.11.04-23.14.53:832][549]LogInit: FAudioDevice initialized with ID 3.
+[2023.11.04-23.14.53:832][549]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2023.11.04-23.14.53:832][549]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.04-23.14.53:869][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-23.14.54:142][549]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.04-23.14.54:148][549]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.04-19.14.54
+[2023.11.04-23.14.54:149][549]LogWorld: Bringing up level for play took: 0.006275
+[2023.11.04-23.14.54:157][549]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.04-23.14.54:158][549]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.04-23.14.54:161][549]vr.PixelDensity = "1"
+[2023.11.04-23.14.54:172][549]PIE: Server logged in
+[2023.11.04-23.14.54:177][549]PIE: Play in editor total start time 0.436 seconds.
+[2023.11.04-23.14.54:218][549]LogViewport: Scene viewport resized to 3136x1568, mode Windowed.
+[2023.11.04-23.14.54:270][549]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.04-23.14.54:291][549]LogRenderer: Warning: Resizing VR buffer to 2512 by 1256
+[2023.11.04-23.14.54:338][549]LogSlate: Took 0.001080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.04-23.15.25:891][433]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.11.04-23.15.25:970][433]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.079 s
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: === Handled ensure: ===
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: 
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0)  [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 670] 
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_TIME_INVALID
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: Stack: 
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff99ae85514 UnrealEditor-OpenXRHMD.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x0000027fae30ec8b UnrealEditor-OpenXRInput.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x0000027fae30e4a2 UnrealEditor-OpenXRInput.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9ca518c89 UnrealEditor-HeadMountedDisplay.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9ca5233f9 UnrealEditor-HeadMountedDisplay.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff99ffec688 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a00fb6c5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a18d882b UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a18dfd72 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9eb611c9f UnrealEditor-Core.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9eb6122ae UnrealEditor-Core.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9eb61eeb0 UnrealEditor-Core.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a19075ea UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a1910c3e UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a09c9869 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9a09d67d2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9d00849b8 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff9d0cdd776 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f668af2 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f68d28c UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f68d37a UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f690854 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f6a6984 UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ff72f6a9d7a UnrealEditor.exe!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ffa551f257d KERNEL32.DLL!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: [Callstack] 0x00007ffa557aaa78 ntdll.dll!UnknownFunction []
+[2023.11.04-23.15.25:971][433]LogOutputDevice: Error: 
+[2023.11.04-23.15.25:982][433]LogStats:                SubmitErrorReport -  0.000 s
+[2023.11.04-23.15.27:317][433]LogStats:                    SendNewReport -  1.334 s
+[2023.11.04-23.15.27:317][433]LogStats:             FDebug::EnsureFailed -  1.425 s
+[2023.11.04-23.15.29:074][590]LogWindowsDesktop: Alt-F4 pressed!
+[2023.11.04-23.16.44:929][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-23.16.44:929][109]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.04-23.16.44:979][109]LogSlate: Window 'FightVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.11.04-23.16.44:990][109]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.16.44:991][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.16.44:996][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.04-23.16.45:000][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.16.45:008][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.04-23.16.45:008][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.04-23.16.45:012][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.04-23.16.45:036][109]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.04-23.16.45:036][109]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.04-23.16.45:037][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.04-23.16.45:170][110]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.11.04-23.17.00:125][999]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2023.11.04-23.17.00:142][999]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.11.04-23.17.00:197][  0]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.11.04-23.17.05:846][111]LogConcert: Display: Server EPICMCGAMERSON discovered.
+[2023.11.04-23.24.42:557][884]LogConcert: [Pending] Creating Session 'tuuu'...
+[2023.11.04-23.24.42:557][884]LogConcert: [Pending] Creating Session 'tuuu'... - Validating Workspace...
+[2023.11.04-23.24.42:729][885]LogConcert: [Pending] Creating Session 'tuuu'... - Validating Workspace...
+[2023.11.04-23.24.43:274][887]LogConcert: [Pending] Creating Session 'tuuu'... - Attempting Remote Connection...
+[2023.11.04-23.24.43:416][889]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: tuuu
+[2023.11.04-23.24.43:528][889]SourceControl: Revision control is disabled
+[2023.11.04-23.24.43:529][889]SourceControl: Revision control is disabled
+[2023.11.04-23.24.43:534][889]LogConcert: Display: Initialized Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.24.43:535][889]LogConcert: Display: Connecting to Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.24.44:067][896]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:067][896]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:175][897]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:175][897]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:277][898]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:277][898]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:377][899]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:377][899]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:479][900]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:479][900]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:587][901]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:587][901]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:695][902]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:695][902]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:800][903]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:800][903]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:902][904]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.44:902][904]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:004][905]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:004][905]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:106][906]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:106][906]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:211][907]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:211][907]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:312][908]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:312][908]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:413][909]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:413][909]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:522][910]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.45:522][910]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2023.11.04-23.24.49:342][942]LogConcert: Display: Server EPICMCGAMERSON lost.
+[2023.11.04-23.26.43:343][347]LogConcert: Display: Disconnected from Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.26.43:344][347]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: tuuu
+[2023.11.04-23.26.43:347][347]SourceControl: Revision control is disabled
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Engine/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/FightVR/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ConcertSyncClient/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ObjectMixer/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/LightMixer/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Takes/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/MultiUserTakes/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/AnimationSharing/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Paper2D/' was aborted.
+[2023.11.04-23.26.43:359][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ToolPresets/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/PythonScriptPlugin/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/FullBodyIK/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Dataflow/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ChaosSolverPlugin/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ChaosNiagara/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ChaosClothEditor/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ChaosCaching/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Runtime/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/SequencerScripting/' was aborted.
+[2023.11.04-23.26.43:360][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Niagara/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/GLTFExporter/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/DatasmithContent/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/IKRig/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ControlRig/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ControlRigSpline/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ACLPlugin/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/WaveTable/' was aborted.
+[2023.11.04-23.26.43:361][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Synthesis/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/RigVM/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/ResonanceAudio/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/OpenXRHandTracking/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/OpenXREyeTracker/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/OpenXR/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Metasound/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/MeshModelingToolset/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/GeometryProcessing/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/AudioWidgets/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/AudioSynesthesia/' was aborted.
+[2023.11.04-23.26.43:362][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/MediaPlate/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/MediaCompositing/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/UVEditor/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/SpeedTreeImporter/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/GeometryMode/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/BlueprintHeaderView/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/TraceUtilities/' was aborted.
+[2023.11.04-23.26.43:363][347]LogDirectoryWatcher: A directory notification for 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/Concert/MultiUser/359013394BF361158D3F5AA2A63A735E/9BAFE8C844C8C13B8B4F3EBDAB0730AF/Sandbox/Bridge/' was aborted.
+[2023.11.04-23.26.43:379][347]LogConcert: Display: Shutdown Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.26.43:481][347]LogConcert: [Pending] Creating Session 'tuuu'... - Attempting Remote Connection... - See Details...
+[2023.11.04-23.26.43:481][347]LogConcert: Error: [Failure] Failed to Create Session 'tuuu' - Connection Process Canceled - See Details...
+[2023.11.04-23.26.43:573][348]LogConcert: Error: [Failure] Failed to Create Session 'tuuu' - Connection Process Canceled - See Details...
+[2023.11.04-23.26.58:558][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.04-23.26.58:803][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.04-23.26.58:869][497]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.04-23.26.58:870][497]LogSavePackage: Moving 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/VRTemplateMap175FA5AB423FFCDC66281EB0ACB4E163.tmp' to 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.04-23.26.58:909][497]LogFileHelpers: All files are already saved.
+[2023.11.04-23.26.58:909][497]LogFileHelpers: Saving map 'VRTemplateMap' took 0.166
+[2023.11.04-23.26.58:957][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 398 ms
+[2023.11.04-23.26.58:960][497]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.11.04-23.26.58:961][497]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.04-23.32.42:416][649]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2023.11.04-23.32.42:432][649]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.11.04-23.32.42:630][650]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.11.04-23.32.46:938][683]LogConcert: Display: Server EPICMCGAMERSON discovered.
+[2023.11.04-23.32.55:243][754]LogConcert: [Pending] Joining Session...
+[2023.11.04-23.32.55:243][754]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.11.04-23.32.55:485][755]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.11.04-23.32.56:061][757]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2023.11.04-23.32.56:141][758]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: tuuu
+[2023.11.04-23.32.56:163][758]SourceControl: Revision control is disabled
+[2023.11.04-23.32.56:163][758]SourceControl: Revision control is disabled
+[2023.11.04-23.32.56:163][758]LogConcert: Display: Initialized Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.32.56:163][758]LogConcert: Display: Connecting to Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.32.56:437][760]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: tuuu
+[2023.11.04-23.32.56:439][760]LogConcert: Display: Connected to Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.32.56:505][761]LogConcert: [Success] Joined Session 'tuuu'
+[2023.11.04-23.32.56:512][761]LogConcert: Display: Synced activity '1' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh joined the session.
+[2023.11.04-23.32.56:756][762]LogConcert: [Success] Joined Session 'tuuu'
+[2023.11.04-23.33.02:061][814]LogConcertTakeRecorder: Display: Session Client Change: jhoop Connected.
+[2023.11.04-23.33.02:062][814]LogConcert: Display: User 'hoope' (Endpoint: 222FAD0748E0303DDE70EE9F7691C37F) joined Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.33.02:063][814]LogConcert: Display: Synced activity '2' produced by endpoint '222FAD0748E0303DDE70EE9F7691C37F': jhoop joined the session.
+[2023.11.04-23.33.04:398][838]LogConcert: Display: Synced activity '3' produced by endpoint '222FAD0748E0303DDE70EE9F7691C37F': jhoop saved package /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-23.33.04:731][840]LightingResults: New page: Lighting Build
+[2023.11.04-23.33.04:767][840]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.33.04:770][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.33.04:770][840]MapCheck: New page: Map Check
+[2023.11.04-23.33.04:770][840]LightingResults: New page: Lighting Build
+[2023.11.04-23.33.04:780][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-23.33.04:793][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.04-23.33.04:798][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-23.33.04:798][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-23.33.04:799][840]LogAIModule: Creating AISystem for world Untitled
+[2023.11.04-23.33.04:805][840]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.04-23.33.04:996][840]LoadErrors: New page: New Map
+[2023.11.04-23.33.05:020][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-23.33.05:045][840]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.04-23.33.05:047][840]Cmd: MAP LOAD FILE="C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.04-23.33.05:048][840]LightingResults: New page: Lighting Build
+[2023.11.04-23.33.05:048][840]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2023.11.04-23.33.05:074][840]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.33.05:074][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.33.05:074][840]MapCheck: New page: Map Check
+[2023.11.04-23.33.05:075][840]LightingResults: New page: Lighting Build
+[2023.11.04-23.33.05:081][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-23.33.05:084][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.04-23.33.05:090][840]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.33.05:090][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.33.05:100][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.04-23.33.05:106][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.04-23.33.05:120][840]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2023.11.04-23.33.05:121][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-23.33.05:121][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-23.33.05:121][840]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.04-23.33.05:291][840]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.04-23.33.05:310][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.04-23.33.05:314][840]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.04-23.33.05:315][840]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.657ms to complete.
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: ================================================
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Total job queries 362, among them cache hits 294 (81.22%)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 55 distinct outputs (80.88%)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: RAM used: 2.55 MiB of 819.20 MiB budget. Usage: 0.31%
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Job execution time: average 4.57 s, max 6.69 s
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Job life time (pending + execution): average 4.67 s, max 6.79
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Shader code size: average 80.014 KiB, min 74.355 KiB, max 85.672 KiB
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.79 s
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Average processing rate: 0.29 jobs/sec
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Total thread time: 7.605 s
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Total thread preprocess time: 0.328 s
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Percentage time preprocessing: 4.31%
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 5.93 sec, max 5.93 sec, min 5.93 sec)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 77.96% of total time (compiled    1 times, average 5.93 sec, max 5.93 sec, min 5.93 sec)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 22.04% of total time (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2023.11.04-23.33.05:745][843]LogShaderCompilers: Display: ================================================
+[2023.11.04-23.38.09:535][850]LogDerivedDataCache: C:/Users/jazzy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.551 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3502 files in 4733 folders with total size 222 MiB.
+[2023.11.04-23.38.38:443][588]LogSlate: Window 'Message' being destroyed
+[2023.11.04-23.38.38:479][588]Message dialog closed, result: Cancel, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2023.11.04-23.39.21:415][798]LogConcert: Display: Synced activity '4' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh modified PostProcessVolume_0 in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.11.04-23.42.50:309][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.04-23.42.52:945][554]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.04-23.42.53:013][554]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/Katana/5_3.5_3
+	Asset Type: Material
+	Asset Name: /Game/Katana/6_2.6_2
+	Asset Type: Material
+	Asset Name: /Game/Katana/6_3.6_3
+	Asset Type: Material
+	Asset Name: /Game/Katana/BPkata.BPkata
+	Asset Type: Blueprint
+	Asset Name: /Game/Katana/grey_saber_all.grey_saber_all
+	Asset Type: StaticMesh
+	Asset Name: /Game/Katana/grey_saber_all_-_Copy.grey_saber_all_-_Copy
+	Asset Type: StaticMesh
+	Asset Name: /Game/Katana/1_2.1_2
+	Asset Type: Material
+	Asset Name: /Game/Katana/1_3.1_3
+	Asset Type: Material
+	Asset Name: /Game/Katana/2_2.2_2
+	Asset Type: Material
+	Asset Name: /Game/Katana/2_3.2_3
+	Asset Type: Material
+[2023.11.04-23.42.53:553][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.04-23.42.53:754][554]LogStaticMesh: Display: Waiting for static meshes to be ready 0/2 (/Game/Katana/grey_saber_all) ...
+[2023.11.04-23.42.54:484][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.04-23.42.54:493][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.04-23.42.54:502][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.04-23.42.54:552][555]LogConcert: Display: Synced activity '5' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/grey_saber_all.
+[2023.11.04-23.42.54:553][555]LogConcert: Display: Synced activity '6' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-23.42.54:553][555]LogConcert: Display: Synced activity '7' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/5_3.
+[2023.11.04-23.42.54:555][555]LogConcert: Display: Synced activity '8' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/5_3.
+[2023.11.04-23.42.54:556][555]LogConcert: Display: Synced activity '9' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/5_3.
+[2023.11.04-23.42.54:557][555]LogConcert: Display: Synced activity '10' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/6_2.
+[2023.11.04-23.42.54:558][555]LogConcert: Display: Synced activity '11' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/6_2.
+[2023.11.04-23.42.54:558][555]LogConcert: Display: Synced activity '12' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/6_2.
+[2023.11.04-23.42.54:558][555]LogConcert: Display: Synced activity '13' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/6_3.
+[2023.11.04-23.42.54:559][555]LogConcert: Display: Synced activity '14' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/6_3.
+[2023.11.04-23.42.54:560][555]LogConcert: Display: Synced activity '15' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/6_3.
+[2023.11.04-23.42.54:560][555]LogConcert: Display: Synced activity '16' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/BPkata.
+[2023.11.04-23.42.54:562][555]LogConcert: Display: Synced activity '17' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/BPkata.
+[2023.11.04-23.42.54:562][555]LogConcert: Display: Synced activity '18' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/BPkata.
+[2023.11.04-23.42.54:563][555]LogConcert: Display: Synced activity '19' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/grey_saber_all.
+[2023.11.04-23.42.54:564][555]LogConcert: Display: Synced activity '20' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/grey_saber_all.
+[2023.11.04-23.42.54:566][555]LogConcert: Display: Synced activity '21' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-23.42.54:567][555]LogConcert: Display: Synced activity '22' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/grey_saber_all_-_Copy.
+[2023.11.04-23.42.54:567][555]LogConcert: Display: Synced activity '23' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/1_2.
+[2023.11.04-23.42.54:568][555]LogConcert: Display: Synced activity '24' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/1_2.
+[2023.11.04-23.42.54:569][555]LogConcert: Display: Synced activity '25' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/1_2.
+[2023.11.04-23.42.54:570][555]LogConcert: Display: Synced activity '26' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/1_3.
+[2023.11.04-23.42.54:571][555]LogConcert: Display: Synced activity '27' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/1_3.
+[2023.11.04-23.42.54:571][555]LogConcert: Display: Synced activity '28' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/1_3.
+[2023.11.04-23.42.54:572][555]LogConcert: Display: Synced activity '29' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/2_2.
+[2023.11.04-23.42.54:573][555]LogConcert: Display: Synced activity '30' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/2_2.
+[2023.11.04-23.42.54:573][555]LogConcert: Display: Synced activity '31' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/2_2.
+[2023.11.04-23.42.54:574][555]LogConcert: Display: Synced activity '32' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/2_3.
+[2023.11.04-23.42.54:575][555]LogConcert: Display: Synced activity '33' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/2_3.
+[2023.11.04-23.42.54:576][555]LogConcert: Display: Synced activity '34' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/2_3.
+[2023.11.04-23.42.54:577][555]LogConcert: Display: Synced activity '35' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/3_2.
+[2023.11.04-23.42.54:578][555]LogConcert: Display: Synced activity '36' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/3_2.
+[2023.11.04-23.42.54:578][555]LogConcert: Display: Synced activity '37' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/3_2.
+[2023.11.04-23.42.54:579][555]LogConcert: Display: Synced activity '38' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/3_3.
+[2023.11.04-23.42.54:579][555]LogConcert: Display: Synced activity '39' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/3_3.
+[2023.11.04-23.42.54:580][555]LogConcert: Display: Synced activity '40' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/3_3.
+[2023.11.04-23.42.54:580][555]LogConcert: Display: Synced activity '41' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/4_2.
+[2023.11.04-23.42.54:581][555]LogConcert: Display: Synced activity '42' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/4_2.
+[2023.11.04-23.42.54:581][555]LogConcert: Display: Synced activity '43' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/4_2.
+[2023.11.04-23.42.54:582][555]LogConcert: Display: Synced activity '44' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/4_3.
+[2023.11.04-23.42.54:583][555]LogConcert: Display: Synced activity '45' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/4_3.
+[2023.11.04-23.42.54:583][555]LogConcert: Display: Synced activity '46' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/4_3.
+[2023.11.04-23.42.54:584][555]LogConcert: Display: Synced activity '47' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh locked /Game/Katana/5_2.
+[2023.11.04-23.42.54:585][555]LogConcert: Display: Synced activity '48' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh deleted package /Game/Katana/5_2.
+[2023.11.04-23.42.54:585][555]LogConcert: Display: Synced activity '49' produced by endpoint '7CD8144F4645E169F99020B47564491A': Jesh unlocked /Game/Katana/5_2.
+[2023.11.04-23.43.20:960][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.04-23.43.21:005][676]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2023.11.04-23.43.21:006][676]LogSavePackage: Moving 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/VRTemplateMap_Auto1AEBB860F4F76B881FCF668B6D4FDEB13.tmp' to 'C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.11.04-23.43.21:009][676]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap is in the /Temp path, will not scan.
+[2023.11.04-23.43.21:010][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.057
+[2023.11.04-23.43.21:010][676]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.11.04-23.43.52:474][959]LogSlate: Window 'Undo History' being destroyed
+[2023.11.04-23.43.52:581][959]LogSlate: Window 'Undo History' being destroyed
+[2023.11.04-23.44.03:356][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.04-23.44.05:390][ 34]LogSlate: Window 'Save Content' being destroyed
+[2023.11.04-23.44.05:449][ 34]LogStall: Shutdown...
+[2023.11.04-23.44.05:458][ 34]LogStall: Shutdown complete.
+[2023.11.04-23.44.05:525][ 34]LogSlate: Window 'Multi-User Browser' being destroyed
+[2023.11.04-23.44.05:537][ 34]LogSlate: Window 'FightVR - Unreal Editor' being destroyed
+[2023.11.04-23.44.05:854][ 35]Cmd: QUIT_EDITOR
+[2023.11.04-23.44.05:855][ 35]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.04-23.44.05:864][ 35]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.04-23.44.05:864][ 35]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.04-23.44.05:864][ 35]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.04-23.44.05:871][ 35]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-23.44.05:872][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-23.44.05:913][ 35]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.04-23.44.06:549][ 35]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.04-23.44.06:549][ 35]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.04-23.44.06:549][ 35]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2023.11.04-23.44.06:549][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.11.04-23.44.06:567][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.04-23.44.06:569][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.04-23.44.06:583][ 35]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.04-23.44.06:583][ 35]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.04-23.44.06:596][ 35]LogExit: Preparing to exit.
+[2023.11.04-23.44.07:579][ 35]LogConcertTakeRecorder: Display: Session Client Change: jhoop Disconnected.
+[2023.11.04-23.44.07:579][ 35]LogConcert: Display: User 'hoope' (Endpoint: 222FAD0748E0303DDE70EE9F7691C37F) left Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.44.07:579][ 35]LogConcert: Display: Disconnected from Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.44.07:579][ 35]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: tuuu
+[2023.11.04-23.44.07:579][ 35]SourceControl: Revision control is disabled
+[2023.11.04-23.44.07:595][ 35]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches C:/Users/jazzy/Documents/Unreal Projects/Fight VirtualReality/FightVRGame/FightVR/Intermediate/CachedAssetRegistry_*.bin.
+[2023.11.04-23.44.07:614][ 35]LogConcert: Display: Shutdown Concert session 'tuuu' (Id: 9BAFE8C844C8C13B8B4F3EBDAB0730AF, Owner: jazzy).
+[2023.11.04-23.44.08:607][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.04-23.44.40:236][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.40:236][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.40:245][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.45:238][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.50:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.50:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.50:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.55:238][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.55:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.44.55:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.00:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.05:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.05:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.05:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.10:243][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.15:248][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.15:248][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.15:248][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.20:237][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.23:130][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.25:237][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.25:237][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.25:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.30:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.30:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.30:239][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.35:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.35:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.35:247][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.40:259][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.45:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.45:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.45:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.50:240][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.55:244][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.55:244][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.45.55:244][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.00:256][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.00:256][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.00:256][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:268][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:268][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:268][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:557][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:557][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
+[2023.11.04-23.46.05:557][ 35]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/1 of stale message segements from Sender=25.3.166.63:61446, Sequence=0
