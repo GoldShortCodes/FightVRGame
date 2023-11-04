@@ -1290,3 +1290,25 @@ The following settings have been applied:
 [2023.11.04-16.57.46:602][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2023.11.04-16.57.46:602][  0]LogPakFile: Initializing PakPlatformFile
 [2023.11.04-16.57.46:603][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.04-16.57.48:447][  0]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.04-16.57.49:014][  0]LogTurnkeySupport: Turnkey Device: Win64@EPICMCGAMERSON: (Name=EPICMCGAMERSON, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22621.0, Flags="Device_InstallSoftwareValid")
+[2023.11.04-16.57.49:117][  0]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.04-16.57.49:123][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.04-16.57.49:128][  0]LogSlate: Took 0.000877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.04-16.57.49:129][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.04-16.57.49:192][  0]LogViewport: Scene viewport resized to 1377x541, mode Windowed.
+[2023.11.04-16.57.49:254][  0]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.04-16.57.49:487][  0]LogStall: Startup...
+[2023.11.04-16.57.49:492][  0]LogStall: Startup complete.
+[2023.11.04-16.57.49:504][  0]LogLoad: (Engine Initialization) Total time: 17.76 seconds
+[2023.11.04-16.57.49:504][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.04-16.57.50:532][  0]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.04-16.57.50:753][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.04-16.57.51:027][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2023.11.04-16.57.51:028][  1]Running Python start-up script 'E:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.073787 secs
+[2023.11.04-16.57.51:090][  1]LogAssetRegistry: AssetRegistryGather time 0.1567s: AssetDataDiscovery 0.0341s, AssetDataGather 0.0356s, StoreResults 0.0870s.
+[2023.11.04-16.57.51:118][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.11.04-16.57.51:155][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.11.04-16.57.51:254][  2]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.04-16.57.51:318][  2]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
